@@ -103,4 +103,4 @@ Explore interactive visualizations using Plotly.
 Integrate real-time cloud market data via APIs.
 
 About Me
-I’m Dane Hately, founder of IronKube Solutions, a cloud computing enthusiast pursuing certifications in AWS, Terraform, Kubernetes, and GCP. This project reflects my skills in data analysis, Python scripting, and Linux system administration, all of which are critical for my career goals as a DevOps Engineer and Cloud Architect.
+I’m Dane Hately, founder of Ember Cloud, a cloud computing enthusiast with certifications in AWS, and GCP and deepening understanding in Terraform and Kubernetes. This project reflects my skills in data analysis, Python scripting, and Linux system administration, all of which are critical for my career goals as a DevOps Engineer and Cloud Architect.
